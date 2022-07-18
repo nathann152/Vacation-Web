@@ -1,0 +1,24 @@
+.VacationCard.Box {
+	width: 280px;
+    height: 370px;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient(45deg, lightblue, white);
+    text-align: center;
+}
+.VacationCard img{
+    width: 100%;
+    height: 150px;
+    border-radius: 1px;
+    vertical-align: middle;
+    margin-top:5% ;
+    
+}
+.VacationCard >div:last-child{
+    margin-left: auto;
+}
+.VacationCard button{
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}

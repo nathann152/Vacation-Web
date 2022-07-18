@@ -1,0 +1,19 @@
+.Header{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(180, 225, 240,0.5);
+    
+}
+
+.Header >h1{
+    font-family: Georgia, sans-serif;
+    font-size: 5em;
+    letter-spacing: -2px;
+    color: black;
+}
+.image{
+    width: 60px;
+    height: 60px;
+}

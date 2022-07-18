@@ -1,0 +1,10 @@
+.Footer {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(180, 225, 240,0.2);
+}
+.Footer > p {
+      font-size: x-large;
+}

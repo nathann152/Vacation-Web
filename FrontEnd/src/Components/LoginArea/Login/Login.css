@@ -1,0 +1,22 @@
+.Login >form{
+    width: 400px;
+}
+
+.Login input, .Login button{
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.Login h2{
+    text-align: center;
+}
+.Login{
+    background-color: rgba(175, 218, 233,0.6);
+}
+.Login span{
+    color: red;
+    margin: 0 20%;
+    position: absolute;
+    
+}

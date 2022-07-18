@@ -1,0 +1,9 @@
+.VacationDetails {
+	text-align: center;
+    width: 350px;
+}
+
+.VacationDetails > img {
+    width: 200px;
+}
+/* .VacationDetails>  */

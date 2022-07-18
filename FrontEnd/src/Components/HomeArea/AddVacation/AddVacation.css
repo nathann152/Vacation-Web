@@ -1,0 +1,26 @@
+.AddVacation >form{
+    width: 400px;
+}
+
+.AddVacation input, .AddVacation button{
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.AddVacation h2{
+    text-align: center;
+}
+.AddVacation{
+    background-color: rgba(175, 218, 233,0.6);
+}
+.AddVacation span{
+    color: red;
+    margin: 0 20%;
+    position: absolute;
+    
+}
+.TextBox{
+    width: 100%;
+    margin: 5px 0;
+}

@@ -1,0 +1,29 @@
+.VacationCardAdmin.Box {
+	width: 280px;
+    height: 370px;
+    /* display: inline-table; */
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient(45deg, lightblue, white);
+}
+.VacationCardAdmin img{
+    width: 100%;
+    height: 150px;
+    border-radius: 1px;
+    vertical-align: middle;
+    margin-top:5% ;
+    
+}
+.VacationCardAdmin >div:last-child{
+    margin-left: auto;
+}
+.holdsLinks{
+display: inline-block;
+position: relative;
+   
+}
+.holdsLink{
+    display: inline-block;
+    position: relative;
+}
+
